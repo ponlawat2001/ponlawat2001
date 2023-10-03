@@ -1,7 +1,7 @@
 Hi there! 👋 My name is Mix!
 ==============================
 
-final year Computer engineering student
+Final year computer engineering student
 ---------------------------------------
 
 I'm full of passion for coding in any language. Started writing code seriously 1 year ago. And now. I'm close to graduation. Currently looking for Software developer job. I expect to be a full-stack developer. But the first job I want to start with is front-end developer or mobile developer.
