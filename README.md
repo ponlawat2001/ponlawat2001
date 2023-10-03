@@ -50,6 +50,6 @@ I'm full of passion for coding in any language. Started writing code seriously 1
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ponlawat2001"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ponlawat2001&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ponlawat2001" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ponlawat2001&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ponlawat2001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponlawat2001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ponlawat2001" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponlawat2001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
