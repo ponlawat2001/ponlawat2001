@@ -53,6 +53,10 @@ I'm full of passion for coding in any language. Started writing code seriously 1
     </tr>
   </table>
 
+### Mylanguage
+  * English: B1 (Intermediate)
+  * Thai: Native
+
 <b>My GitHub Stats</b>
 ----------
 <table align="center">
