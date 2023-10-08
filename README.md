@@ -54,7 +54,7 @@ I'm full of passion for coding in any language. Started writing code seriously 1
   </table>
 
 ### Mylanguage
-  * English: B1 (Intermediate)
+  * English: A2 (Elementary)
   * Thai: Native
 
 <b>My GitHub Stats</b>
